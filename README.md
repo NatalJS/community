@@ -4,8 +4,6 @@
 Este repositório existe como forma de permitir a qualquer interessado se aproximar
 das decisões que dirigem a Natal JS enquanto comunidade.
 
-> Ainda é só uma proposta.
-
 ### Como colaborar:
 
 Para guiar a tomada decisões da forma mais inclusiva e consensual possível,
