@@ -19,7 +19,7 @@ digerida pela organização da Natal JS.
 
 #### Proposta
 
-É quando um dos mantenedores reconhece o esboço como relevante para ser
+É quando um dos mantenedores reconhece o esboço como relevante e pronto para ser
 concretizado. Começa então o escrutíneo do texto pelos outros organizadores,
 para que a ideia seja mais maturada e ajustada da forma mais pragmática
 possível. Isto é, aqui é o planejamento inicial da coisa.
